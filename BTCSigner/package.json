@@ -1,0 +1,17 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@oasisprotocol/sapphire-contracts": "^0.2.6",
+    "@oasisprotocol/sapphire-hardhat": "^2.16.1",
+    "@types/fs-extra": "^11.0.4",
+    "hardhat": "^2.19.4"
+  },
+  "dependencies": {
+    "axios": "^1.6.3",
+    "bitcoinjs-lib": "^6.1.5",
+    "ecpair": "github:bitcoinjs/ECPair",
+    "fs-extra": "^11.2.0",
+    "tiny-secp256k1": "^2.2.3"
+  }
+}
